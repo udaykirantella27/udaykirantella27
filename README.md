@@ -2,7 +2,7 @@
 
 # Hi, I'm Uday Kiran Tella 👋
 
-💻 Full Stack JavaScript Developer  
+💻 Full Stack Developer  
 📍 Bengaluru, India  
 📧 tellaudaykirann@gmail.com  
 
