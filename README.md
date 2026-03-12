@@ -1,138 +1,156 @@
-## Hi there 👋
+# 👋 Hi, I'm Uday Kiran Tella
 
-# Hi, I'm Uday Kiran Tella 👋
+<h3 align="center">🚀 Full Stack JavaScript Developer | React • Next.js • Node.js</h3>
 
-💻 Full Stack Developer  
+<p align="center">
 📍 Bengaluru, India  
-📧 tellaudaykirann@gmail.com  
+<br/>
+Building scalable web applications and modern user experiences
+</p>
 
 ---
 
-## 🚀 About Me
+# 💫 About Me
 
-I am a **Full Stack JavaScript Developer** with hands-on experience building scalable web applications using **React.js, Next.js, Node.js, and modern backend technologies**.
+💻 Full Stack JavaScript Developer with hands-on experience building scalable web applications using **React.js, Next.js, Node.js, and PostgreSQL**.
 
-I enjoy building production-ready applications including **e-commerce platforms, healthcare dashboards, and enterprise systems**.
+⚡ I enjoy developing **production-ready applications** including:
 
-Currently working as **Associate Software Developer at Zihwa Insights**.
+* E-commerce platforms
+* Healthcare management dashboards
+* Enterprise web applications
 
----
+🏢 Currently working as **Associate Software Developer at Zihwa Insights**
 
-## 🛠 Tech Stack
-
-### Languages
-JavaScript (ES6+), Java, SQL
-
-### Frontend
-React.js  
-Next.js  
-HTML5  
-CSS3  
-Responsive UI Design
-
-### Backend
-Node.js  
-Express.js  
-REST API Development
-
-### Databases
-PostgreSQL  
-MySQL  
-MongoDB (Basics)
-
-### Tools
-Git  
-GitHub  
-Supabase  
-VS Code  
+🌱 Currently improving my skills in **System Design, Backend Architecture, and Performance Optimization**
 
 ---
 
-## 💼 Experience
+# 🛠 Tech Stack
 
-### Associate Software Developer  
-**Zihwa Insights | Dec 2025 – Present**
+### 💻 Languages
 
-- Developed full stack applications using **React.js, Next.js, Node.js, PostgreSQL**
-- Built **RESTful APIs** for frontend-backend communication
-- Developed the **Stalks N Spice E-commerce Platform**
-- Built dynamic UI components and optimized responsive interfaces
-- Worked in **Agile development environment**
+![JavaScript](https://img.shields.io/badge/Javascript-000?style=for-the-badge\&logo=javascript)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge\&logo=java)
+![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge\&logo=mysql)
 
 ---
 
-### Frontend Developer Intern  
-**Ve-Lyra Labs | May 2025 – Dec 2025**
+### 🎨 Frontend
 
-- Built **Healthcare Dashboard using React & Next.js**
-- Implemented **Role Based Access Control**
-- Developed reusable UI components
-- Integrated frontend with REST APIs
-
----
-
-# 📦 Projects
-
-## 🛒 Stalks N Spice – E-Commerce Platform
-Full stack grocery e-commerce platform.
-
-Tech Stack:
-React.js  
-Node.js  
-Supabase  
-
-Features:
-- Product listing
-- Category filtering
-- Inventory management
-- Fast UI performance
+![React](https://img.shields.io/badge/React-000?style=for-the-badge\&logo=react)
+![NextJS](https://img.shields.io/badge/Next.js-000?style=for-the-badge\&logo=next.js)
+![HTML](https://img.shields.io/badge/HTML5-000?style=for-the-badge\&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-000?style=for-the-badge\&logo=css3)
 
 ---
 
-## 🏥 Healthcare Management System
-Healthcare platform supporting:
+### ⚙️ Backend
 
-- Patient onboarding
-- Appointment scheduling
-- Electronic Health Records
-- Role based dashboards
+![NodeJS](https://img.shields.io/badge/Node.js-000?style=for-the-badge\&logo=node.js)
+![Express](https://img.shields.io/badge/Express.js-000?style=for-the-badge\&logo=express)
+
+---
+
+### 🗄 Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge\&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge\&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge\&logo=mongodb)
+
+---
+
+### 🧰 Tools
+
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge\&logo=github)
+![Supabase](https://img.shields.io/badge/Supabase-000?style=for-the-badge\&logo=supabase)
+![VS Code](https://img.shields.io/badge/VSCode-000?style=for-the-badge\&logo=visualstudiocode)
+
+---
+
+# 💼 Professional Experience
+
+### 👨‍💻 Associate Software Developer
+
+**Zihwa Insights — Bengaluru**
+📅 Dec 2025 – Present
+
+• Developed full stack applications using **React.js, Next.js, Node.js, PostgreSQL**
+• Designed and implemented **RESTful APIs**
+• Developed the **Stalks N Spice E-commerce platform**
+• Built dynamic UI components and responsive interfaces
+• Collaborated with cross-functional teams in **Agile environment**
+
+---
+
+### 🎯 Frontend Developer Intern
+
+**Ve-Lyra Labs — Bengaluru**
+📅 May 2025 – Dec 2025
+
+• Developed responsive **Healthcare Dashboard** using React & Next.js
+• Implemented **Role-Based Access Control**
+• Built reusable UI components
+• Integrated frontend with backend APIs
+
+---
+
+# 🚀 Featured Projects
+
+### 🛒 Stalks N Spice — E-Commerce Platform
+
+Full stack grocery e-commerce application.
+
+**Tech Stack**
+
+React.js
+Node.js
+Supabase
+
+**Features**
+
+✔ Dynamic product listings
+✔ Category filtering
+✔ Inventory management
+✔ Fast UI performance
+
+---
+
+### 🏥 Healthcare Management System
+
+Scalable healthcare platform supporting:
+
+• Patient onboarding
+• Appointment scheduling
+• Electronic Health Records
+• Role-based dashboards
 
 Tech:
-React.js  
-Next.js  
+
+React.js
+Next.js
 REST APIs
 
 ---
 
-## 🌐 AACP Infra Website
+### 🌐 AACP Infra Website
+
 Production corporate website built using:
 
-- Next.js
-- React.js
-- SEO optimized pages
+Next.js
+React.js
+SEO optimized pages
 
 ---
 
-## 📊 GitHub Stats
 
-![Uday's GitHub stats](https://github-readme-stats.vercel.app/api?username=udaykirantella27&show_icons=true&theme=tokyonight)
+
+# 📫 Connect With Me
+
+💼 LinkedIn
+📧 Email: [tellaudaykirann@gmail.com](mailto:tellaudaykirann@gmail.com)
 
 ---
 
-## 📫 Connect With Me
-
-LinkedIn: https://linkedin.com  
-Email: tellaudaykirann@gmail.com<!--
-**udaykirantella27/udaykirantella27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ *Always excited to collaborate on interesting projects and build impactful products.*
