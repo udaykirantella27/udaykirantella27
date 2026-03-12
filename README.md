@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Uday Kiran Tella
 
-<h3 align="center">🚀 Full Stack JavaScript Developer | React • Next.js • Node.js</h3>
+<h3 align="center">🚀 Full Stack Developer | React • Next.js • Node.js</h3>
 
 <p align="center">
 📍 Bengaluru, India  
@@ -12,7 +12,7 @@ Building scalable web applications and modern user experiences
 
 # 💫 About Me
 
-💻 Full Stack JavaScript Developer with hands-on experience building scalable web applications using **React.js, Next.js, Node.js, and PostgreSQL**.
+💻 Full Stack Developer with hands-on experience building scalable web applications using **React.js, Next.js, Node.js, and PostgreSQL**.
 
 ⚡ I enjoy developing **production-ready applications** including:
 
